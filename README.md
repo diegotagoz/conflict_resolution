@@ -1,4 +1,4 @@
-# COnflict Resolution
+# Conflict Resolution
 
 This is the code of mi Master Thesis.
 
