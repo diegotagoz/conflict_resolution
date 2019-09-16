@@ -14,4 +14,6 @@ stat_v1
 stat_v2
 stat_v3
 
-You will also need the "Fast Marching Square" Matlab library developed by members of the Systems and Automation Engineering Department of the Carlos III University (UC3M)
+You will also need the "Fast Marching" Matlab toolbox found in prof. Gabriel Peyré repository:
+
+https://github.com/gpeyre/matlab-toolboxes/tree/master/toolbox_fast_marching
